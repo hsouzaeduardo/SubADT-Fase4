@@ -16,7 +16,7 @@
 ## 🔗 Links de Entrega
 
 ### Vídeo de Apresentação
-**YouTube:** [[INSERIR LINK AQUI]](https://www.youtube.com/watch?v=yF0NQhjx82E)
+**YouTube:** [[Video]](https://www.youtube.com/watch?v=yF0NQhjx82E)
 - Duração: [15] minutos
 - Conteúdo:
   - Demonstração da aplicação em funcionamento

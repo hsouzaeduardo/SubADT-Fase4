@@ -6,7 +6,7 @@
 **Título:** Sistema de Análise de Vídeo com Detecção de Anomalias  
 **Disciplina:** Inteligência Artificial e Data Technology  
 **Fase:** 4 (Final)  
-**Data de Entrega:** [PREENCHER]
+**Data de Entrega:** 03/01/2026
 
 ## 👥 Equipe
 
@@ -16,8 +16,8 @@
 ## 🔗 Links de Entrega
 
 ### Vídeo de Apresentação
-**YouTube:** [INSERIR LINK AQUI]
-- Duração: [X] minutos (máximo 10 minutos)
+**YouTube:** [[INSERIR LINK AQUI]](https://www.youtube.com/watch?v=yF0NQhjx82E)
+- Duração: [15] minutos
 - Conteúdo:
   - Demonstração da aplicação em funcionamento
   - Explicação das funcionalidades implementadas
@@ -25,7 +25,7 @@
   - Discussão das técnicas utilizadas
 
 ### Repositório GitHub
-**URL:** [INSERIR LINK AQUI]
+**URL:** https://github.com/hsouzaeduardo/SubADT-Fase4/tree/feat/futebol
 - Código-fonte completo
 - Documentação (README.md)
 - Instruções de instalação
@@ -85,8 +85,8 @@
 ## 📈 Resultados Obtidos
 
 ### Vídeo de Teste
-**Arquivo:** [nome_do_video.mp4]
-**Duração:** [X] segundos
+**Arquivo:** [[JogoSantos.mp4]](https://youtu.be/Q1ZiaqMaQok)
+**Duração:** [75] segundos
 **Resolução:** [WxH]
 
 ### Estatísticas da Análise
@@ -203,28 +203,21 @@ Durante o desenvolvimento deste projeto, foram aplicados conceitos de:
 - Geração automatizada de relatórios
 - Engenharia de software (modularização, documentação)
 
-## 📝 Observações Finais
-
-[ADICIONAR OBSERVAÇÕES ESPECÍFICAS DO SEU PROJETO]
-[DESAFIOS ENCONTRADOS]
-[SOLUÇÕES IMPLEMENTADAS]
-[POSSÍVEIS MELHORIAS FUTURAS]
-
 ---
 
-**Data de Submissão:** [PREENCHER]  
-**Assinatura:** [NOME COMPLETO]
+**Data de Submissão:** 03/1/2026
+**Assinatura:** [Henrique Eduardo Souza]
 
 ## ✅ Checklist de Entrega
 
-- [ ] Vídeo gravado (máx 10 min)
-- [ ] Vídeo enviado para YouTube
-- [ ] Código no GitHub
-- [ ] README completo
-- [ ] requirements.txt
-- [ ] Instruções de execução
-- [ ] PDF com links (este documento)
-- [ ] Nomes na descrição do vídeo
-- [ ] Tema diferente do apresentado em aula
-- [ ] Sem relatório PDF extra (apenas vídeo)
-- [ ] Sem slides de apresentação (apenas vídeo)
+- [X] Vídeo gravado (máx 10 min)
+- [X] Vídeo enviado para YouTube
+- [X] Código no GitHub
+- [X] README completo
+- [X] requirements.txt
+- [X] Instruções de execução
+- [X] PDF com links (este documento)
+- [X] Nomes na descrição do vídeo
+- [X] Tema diferente do apresentado em aula
+- [X] Sem relatório PDF extra (apenas vídeo)
+- [X] Sem slides de apresentação (apenas vídeo)
